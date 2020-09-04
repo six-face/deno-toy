@@ -7,6 +7,6 @@ Typescript
 
 ## Get started
 
-Download this code and deno, enjoy :🥶
+Download this code and install deno, enjoy :🥶
 
-ps: version i used was 1.3.2
+ps: version i used was deno@1.3.2
