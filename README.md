@@ -1,9 +1,12 @@
 # deno toy just for fun
 
-oak/Typescript
+oak: http-services
 
-Install for mac
+Typescript
 
-`brew install deno`
+
+## Get started
+
+Download this code and deno, enjoy :🥶
 
 ps: version i used was 1.3.2
