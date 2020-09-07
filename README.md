@@ -9,4 +9,9 @@ Typescript
 
 Download this code and install deno, enjoy :🥶
 
+```
+deno main.js
+
+```
+
 ps: version i used was deno@1.3.2
