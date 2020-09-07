@@ -10,7 +10,7 @@ Typescript
 Download this code and install deno, enjoy :🥶
 
 ```
-deno main.js
+deno index.js
 
 ```
 
